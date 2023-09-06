@@ -19,12 +19,13 @@
 
 -No.of dimensions generated:
 
-     1-Measures-
+     1-Measures-60 in total
    
-     2-Calculated Tables
+     2-Calculated Tables-13 in total
    
      3-Dashboards-2-One main and the other detailed
    
-   4-
+   4-Tools used-PowerBI desktop-New KPI cards, bookmarks, sync slicers, AI generated images
+   5-
     
     
