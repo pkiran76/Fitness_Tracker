@@ -26,6 +26,9 @@
      3-Dashboards-2-One main and the other detailed
    
    4-Tools used-PowerBI desktop-New KPI cards, bookmarks, sync slicers, AI generated images
-   5-
+   
+   5-Inclisions in the dashboards:
+
+     1-
     
     
