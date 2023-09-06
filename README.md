@@ -11,7 +11,7 @@
     
     4-No. of exercise sessions
 
--Aim: To determine the healtihest person among the customer base
+-Aim: To determine the healthiest person among the customer base
 
 -Requirement-All of the KPIs must be considered to determine the above details
 
