@@ -19,11 +19,11 @@
 
 -No.of dimensions generated:
 
-   1-Measures-
+     1-Measures-
    
-   2-Calculated Tables
+     2-Calculated Tables
    
-   3-Dashboards-2-One main and the other detailed
+     3-Dashboards-2-One main and the other detailed
    
    4-
     
