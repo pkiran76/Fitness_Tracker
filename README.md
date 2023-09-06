@@ -1,5 +1,7 @@
 # Fitness_Tracker
 -A sample fitness generated dataset is used to generate the dashboards incorporating the latest updates in PowerBI
+
+
 -4 major KPIs to track:
     1-Heart Rate
     2-No. of calories burnt
