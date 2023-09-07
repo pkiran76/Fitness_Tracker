@@ -27,8 +27,32 @@
    
    4-Tools used-PowerBI desktop-New KPI cards, bookmarks, sync slicers, AI generated images
    
-   5-Inclisions in the dashboards:
+   5-Inclusions in the dashboards:
 
-     1-
+   -Main Dashboard:
+
+     1-4 KPI cards (in the new format) with the selected personnel score and the comparison score based on the alternate person selection
+
+     2-Personnel/customer selection and the person to be compared with
+
+     3-Customer/personnel AI image/picture
+
+     4-Health Score of the selected Customer/personnel
+
+     5-Line graph representing the health score variation with the option of selecting the timeline (Y/Q/M/D) 
     
     
+-Supporting Dashboard:
+
+     1-4 displays/visuals concerning the Health score, time-varation of the selected KPI (for the top N), All KPI comparison for all the 
+     line items, one-to-many KPI comparison
+
+     2-In the Health Score visual, a line graph is used to plot the health score of all the participants along with the KPI scores for 
+     each data point
+
+     3-
+     3-Customer/personnel AI image/picture
+
+     4-Health Score of the selected Customer/personnel
+
+     5-Line graph representing the health score variation with the option of selecting the timeline (Y/Q/M/D) 
