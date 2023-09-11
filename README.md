@@ -50,9 +50,10 @@
      2-In the Health Score visual, a line graph is used to plot the health score of all the participants along with the KPI scores for 
      each data point
 
-     3-
-     3-Customer/personnel AI image/picture
+     3-In the KPI visual, the Top N participants are identified for the selected KPI slicer and an animated bar chart for the selected 
+     time-period wise plot is displayed
 
-     4-Health Score of the selected Customer/personnel
+     4-In the KPI comparison visual, all the KPIs are plotted for all of the participants to get a one-look understanding of the trends
 
-     5-Line graph representing the health score variation with the option of selecting the timeline (Y/Q/M/D) 
+     5-In the final visual (bottom RHS), a one-to-many comparison table is displayed for the participant selected from the slicer next to 
+     the table. The table provides the delta change (in terms of %age) for the selected KPI.
